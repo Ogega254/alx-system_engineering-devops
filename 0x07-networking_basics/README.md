@@ -1,8 +1,8 @@
-## 0x07. Networking basics #0
-#Learning Objectives
+# 0x07. Networking basics #0
+## Learning Objectives
 * At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-# OSI Model
+## OSI Model
 * What it is
 * How many layers it has
 * How it is organized
@@ -24,8 +24,8 @@
 * What is a port
 * Memorize SSH, HTTP and HTTPS port numbers
 * What tool/protocol is often used to check if a device is connected to a network
-# Requirements
-# General
+## Requirements
+## General
 * Allowed editors: vi, vim, emacs
 * All your Bash script files will be interpreted on Ubuntu 20.04 LTS
 * All your files should end with a new line
