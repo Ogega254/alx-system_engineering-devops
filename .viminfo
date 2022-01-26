@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1643209026,,"wq"
 :qa
 |2,0,1635267582,,"qa"
 
@@ -25,16 +27,16 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
-|4,48,1,0,1641757302,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
+'0  4  9  ~/.git/MERGE_MSG
+|4,48,4,9,1643209026,"~/.git/MERGE_MSG"
 '1  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
-|4,49,1,0,1641757090,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
+|4,49,1,0,1641757302,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 '2  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
-|4,50,1,0,1641755423,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
+|4,50,1,0,1641757090,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 '3  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
 |4,51,1,0,1641755423,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 '4  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
-|4,52,1,0,1641753511,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
+|4,52,1,0,1641755423,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 '5  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
 |4,53,1,0,1641753511,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 '6  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
@@ -42,19 +44,33 @@
 '7  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
 |4,55,1,0,1641753511,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 '8  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
-|4,56,1,0,1641753367,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
+|4,56,1,0,1641753511,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 '9  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
 |4,57,1,0,1641753367,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  4  9  ~/.git/MERGE_MSG
+|4,39,4,9,1643209026,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1643208985,"~/.git/MERGE_MSG"
+-'  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
+|4,39,1,0,1641757302,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 -'  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
 |4,39,1,0,1641757302,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 -'  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
 |4,39,1,0,1641757090,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 -'  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
+|4,39,1,0,1641757090,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
+-'  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
+|4,39,1,0,1641755423,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
+-'  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
 |4,39,1,0,1641755423,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 -'  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
 |4,39,1,0,1641753511,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
+-'  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
+|4,39,1,0,1641753511,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
+-'  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
+|4,39,1,0,1641753367,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 -'  1  0  ~/sorting_algorithms/.git/COMMIT_EDITMSG
 |4,39,1,0,1641753367,"~/sorting_algorithms/.git/COMMIT_EDITMSG"
 -'  1  0  ~/simple_shell/.git/MERGE_MSG
@@ -122,7 +138,69 @@
 -'  1  0  ~/simple_shell/.git/MERGE_MSG
 |4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
 -'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
+-'  1  0  ~/simple_shell/.git/MERGE_MSG
+|4,39,1,0,1635505724,"~/simple_shell/.git/MERGE_MSG"
 -'  1  0  ~/simple_shell/.git/MERGE_MSG
 |4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
 -'  1  0  ~/simple_shell/.git/MERGE_MSG
@@ -171,84 +249,15 @@
 |4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
 -'  1  0  ~/simple_shell/.git/MERGE_MSG
 |4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505361,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
--'  1  0  ~/simple_shell/.git/MERGE_MSG
-|4,39,1,0,1635505197,"~/simple_shell/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1643209015	0
+	"	4	9
+	^	4	10
+	.	4	9
+	+	4	9
 
 > ~/simple_shell/.git/COMMIT_EDITMSG
 	*	1635267446	0
