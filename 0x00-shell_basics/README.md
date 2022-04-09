@@ -1,1 +1,0 @@
-Basics Commands For Shell
